@@ -13,8 +13,7 @@ public class CodeToHelpYou {
 
         // 1. Call getFiles with your path
 
-        // 2. Call display files
-
+        // 2. Call displayFiles
 
         // 3. Ask the user what file they want
 
